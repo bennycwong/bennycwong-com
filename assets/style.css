@@ -11,6 +11,14 @@ html, body {
 a {color:#5cc265; text-decoration: none;}
 
 /*---------- Section 1 (HOME) ----------*/
+#section-1 #logo img {
+	width: 15em;
+	height: 15em;
+	border-radius: 7.5em;
+	-moz-border-radius: 7.5em;
+	-webkit-border-radius: 7.5em;
+	border: none;
+}
 
 #section-1 {
   padding-top: 80px;
